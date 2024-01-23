@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+IntrepidBird Organization Official
+
+![image](https://github.com/intrepidbird3/intrepidbird3/assets/147104417/12851325-72f6-4155-afc7-0bfe4bdd304a)
+
 <!--
 **intrepidbird3/intrepidbird3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
